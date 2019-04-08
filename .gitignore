@@ -1,2 +1,4 @@
 # ignore file with .txt extension
 .txt
+
+.vscode
